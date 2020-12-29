@@ -1,0 +1,2 @@
+# Financial-Inclusion-in-Four-African-Countries
+This analysis focuses on financial inclusion (bank account ownership) within 4 African Countries namely; Rwanda, Uganda, Kenya, and Tanzania. This survey was carried out between 2016 and 2018. Survey was carried out on both gender, in rural and urban areas, on various age groups, people with different level of education and different occupation. This analysis focuses more on exploring and visualizing the given data to see how financially inclusive these African countries and its citizens are
